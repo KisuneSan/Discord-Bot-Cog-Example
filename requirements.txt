@@ -1,0 +1,2 @@
+discord.py 1.6.0
+download: https://pypi.org/project/discord.py/#files
